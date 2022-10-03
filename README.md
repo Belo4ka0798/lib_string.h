@@ -1,2 +1,3 @@
 # lib_string.h
-Implementation library string.h on C
+##Implementation library string.h and sprintf on C
+
